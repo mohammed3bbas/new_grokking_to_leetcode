@@ -10,6 +10,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] Unsolved
 - [X] Solved
 
+## Two Pointers
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+
+- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+
+- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
@@ -25,15 +34,6 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
-## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
-
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-
-- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-
 ## Fast and Slow Pointers
 
 - [X] [Happy Number](https://leetcode.com/problems/happy-number/)
@@ -48,11 +48,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Merge Intervals
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)  ``solve again``
 
-- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+- [X] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
