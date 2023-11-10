@@ -76,11 +76,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Two Heaps
 
-- [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
+- [X] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) >> t test case TLE
 
-- [ ] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 - [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
 
